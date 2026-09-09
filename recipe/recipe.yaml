@@ -1,5 +1,5 @@
 context:
-  version: "2.3.1"
+  version: "2.3.2"
 
 package:
   name: chronos-forecasting
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/chronos-forecasting/chronos_forecasting-${{ version }}.tar.gz
-  sha256: 785116f3f10aaac44a315700c5e4de71a5fe6385c9c771722d688f402fe75083
+  sha256: 910b0891310b74598a937bb9fe8447ea16393bcc2e1ad8d328c1f8099f909201
 
 build:
   noarch: python
